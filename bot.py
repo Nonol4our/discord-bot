@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import json
 
-TOKEN = "YOUR_BOT_TOKEN"  # ใส่ Token ของบอทที่นี่
+TOKEN = "MTMzMDkzOTg3MTY4NjI5NTU4Mg.GoJ15r._3xHaoaJQzBgtJU6nnl_sSmncVYej1EHd38U60"  # ใส่ Token ของบอทที่นี่
 
 # โหลดเลขประจำตัวจากไฟล์ (ถ้ามี)
 try:
